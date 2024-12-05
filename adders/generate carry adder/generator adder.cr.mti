@@ -1,0 +1,16 @@
+{C:/Users/vinay/Desktop/verilog prog/adders/generator adder/gen_adder.v} {1 {vlog -work work -stats=none {C:/Users/vinay/Desktop/verilog prog/adders/generator adder/gen_adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module gen_adder
+-- Compiling module full_adder
+
+Top level modules:
+	gen_adder
+
+} {} {}} {C:/Users/vinay/Desktop/verilog prog/adders/generator adder/gen_adder_tb.v} {1 {vlog -work work -stats=none {C:/Users/vinay/Desktop/verilog prog/adders/generator adder/gen_adder_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module gen_adder_tb
+
+Top level modules:
+	gen_adder_tb
+
+} {} {}}
